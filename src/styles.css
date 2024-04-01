@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  width: 100vw;
+}
+
+
+.container{
+  width: 240px;
+  border-radius: 10%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+}
+
